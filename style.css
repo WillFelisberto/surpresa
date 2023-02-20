@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+html,
+body,
+#root {
+	min-height: 100%;
+}
+body {
+	-webkit-font-smoothing: antialiased !important;
+	background-image: url('./img/264198_d6166.gif'),
+		linear-gradient(to right, rgb(217 88 102), rgb(212 121 125));
+}
+
+.container {
+    max-width: 500px;
+	background: #ffffffc7;
+	border-radius: 4px;
+	box-shadow: 0 0 20px rgb(0, 0, 0, 0.4);
+	padding: 30px;
+	margin: 80px auto;
+	text-align: center;
+}
+
+ 
